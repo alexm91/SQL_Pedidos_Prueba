@@ -1,0 +1,3 @@
+CREATE SCHEMA [movimiento]
+AUTHORIZATION [dbo]
+GO
